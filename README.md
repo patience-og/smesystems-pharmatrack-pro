@@ -3,7 +3,7 @@ PharmaTrack Pro — Pharmacy Management System
 Built by SME Systems Studio | Patience Oduori
 
 A cloud-based pharmacy POS and inventory management system built on Google Apps Script and Google Sheets. No hardware required — runs on any phone, tablet or laptop.
-🔗 Live Demo
+🔗 Live Demo: https://script.google.com/macros/s/AKfycbyFT-bcsTsgcb2aVIoC_XqzRyLcaXSJfzEd1NyCiV1ZZ6wT1hTIzGjgMoPgR00qrvEv7w/exec
 Open PharmaTrack Pro
 
 Login: admin / admin123 or cashier / cashier123
